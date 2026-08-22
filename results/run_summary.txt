@@ -1,0 +1,7 @@
+Cells after QC: 1300
+Genes after QC: 2000
+HVGs used: 500
+PCs used: 30 (explained variance: 22.0%)
+Clusters found: 5
+ARI vs ground truth: 1.000
+NMI vs ground truth: 1.000
