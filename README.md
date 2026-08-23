@@ -1,5 +1,9 @@
 # scRNA-seq Clustering Pipeline
 
+![CI](https://github.com/AHS9877/scrna-seq-clustering-pipeline/actions/workflows/ci.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.12-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 A single-cell RNA-seq analysis pipeline built from first principles in Python —
 covering the same stages as a standard Scanpy/Seurat workflow, implemented
 directly with NumPy/pandas/scikit-learn/NetworkX so every step is transparent
